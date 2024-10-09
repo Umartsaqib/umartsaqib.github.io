@@ -1,0 +1,17 @@
+{
+  "files": {
+    "main.css": "/static/css/main.3b27a73f.css",
+    "main.js": "/static/js/main.ba9d8663.js",
+    "static/js/453.a55bba5c.chunk.js": "/static/js/453.a55bba5c.chunk.js",
+    "static/media/Umar-img.jpg": "/static/media/Umar-img.ddca07596dcc7c592838.jpg",
+    "static/media/sertif-1.jpg": "/static/media/sertif-1.18916a0b8153aa7933f4.jpg",
+    "index.html": "/index.html",
+    "main.3b27a73f.css.map": "/static/css/main.3b27a73f.css.map",
+    "main.ba9d8663.js.map": "/static/js/main.ba9d8663.js.map",
+    "453.a55bba5c.chunk.js.map": "/static/js/453.a55bba5c.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.3b27a73f.css",
+    "static/js/main.ba9d8663.js"
+  ]
+}
